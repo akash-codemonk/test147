@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Page1r",
       "isDefault": true
     }
   ],
@@ -15,7 +15,7 @@
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
-  "forkingEnabled": false,
+  "forkingEnabled": true,
   "isManualUpdate": false,
   "deleted": false
 }
